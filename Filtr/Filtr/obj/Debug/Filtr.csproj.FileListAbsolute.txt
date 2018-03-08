@@ -8,3 +8,13 @@ c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr
 c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.exe
 c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.pdb
 C:\Users\Denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.Form2.resources
+D:\githubing\Filtr\Filtr\bin\Debug\Filtr.exe.config
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.exe
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.pdb
+D:\githubing\Filtr\Filtr\bin\Debug\Filtr.exe
+D:\githubing\Filtr\Filtr\bin\Debug\Filtr.pdb
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.csprojResolveAssemblyReference.cache
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.Form1.resources
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.Form2.resources
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.Properties.Resources.resources
+D:\githubing\Filtr\Filtr\obj\Debug\Filtr.csproj.GenerateResource.Cache

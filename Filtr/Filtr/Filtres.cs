@@ -17,7 +17,7 @@ namespace Filtr
             return Color.Black;
         }
 
-        protected int pix;//количество пикселей
+        protected int pix;//количество пикселей ы
         protected int min;//min на гистограме
         protected int max;
         protected float avg;
