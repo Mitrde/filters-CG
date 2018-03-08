@@ -1,0 +1,10 @@
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\bin\Debug\Filtr.exe.config
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\bin\Debug\Filtr.exe
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\bin\Debug\Filtr.pdb
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.csprojResolveAssemblyReference.cache
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.Form1.resources
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.Properties.Resources.resources
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.csproj.GenerateResource.Cache
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.exe
+c:\users\denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\Filtr\Filtr\obj\Debug\Filtr.Form2.resources
